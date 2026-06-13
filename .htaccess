@@ -13,5 +13,5 @@
 
 # Redirect to www
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^yourdomain.com [NC]
-RewriteRule ^(.*)$ https://www.yourdomain.com/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^vuyos911towing.com [NC]
+RewriteRule ^(.*)$ https://www.vuyos911towing.com/$1 [L,R=301]
