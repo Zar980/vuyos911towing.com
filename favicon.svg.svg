@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="12" fill="#d32f2f"/>
+  <text x="10" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="900" fill="#FFD700">VUYO'S</text>
+  <text x="46" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="900" fill="white">911</text>
+  <text x="10" y="58" font-family="Arial, sans-serif" font-size="12" fill="#FFD700">RECOVERIES</text>
+  <text x="12" y="80" font-family="Arial, sans-serif" font-size="14" fill="#FFD700">24/7</text>
+  <circle cx="85" cy="15" r="10" fill="#FFD700"/>
+  <text x="80" y="21" font-size="14" fill="#d32f2f" font-weight="bold">✓</text>
+</svg>
